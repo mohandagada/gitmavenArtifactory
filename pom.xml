@@ -4,7 +4,7 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
   <groupId>Army.javatpoint</groupId>
   <artifactId>Armytruck</artifactId>
   <packaging>war</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>2.0</version>
   <name>Armytruck Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
